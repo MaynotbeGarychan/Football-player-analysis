@@ -1,6 +1,6 @@
 # Term Paper: Football Player Analysis Using Python
 
-_Jiawei CHEN(37206964),Dept.of Mechanical Engineering, Graduate School of Engineering, University of Tokyo._
+_Jiawei CHEN_
 
 Abstract:
 Football is one of the most popular team sports in the world. Data analysis has been widely applied in the research of football palyer and team managements in recent years. From player aspects, data analysis can provide them a better understand of which kind of charasteristics is important for their career success. From team mangers aspect, data analysis can serve as a prowerful tool to evaluate the players and optimize wage structure of teams. Therefore, this project operated data analysis on football player dataset of FIFA19 and finish these jobs:
