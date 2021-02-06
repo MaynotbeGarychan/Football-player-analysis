@@ -9,6 +9,14 @@ Football is one of the most popular team sports in the world. Data analysis has 
 - 3.Attacking fullback and defending fullback were contrast through RandomForest and self-modeling;
 - 4.Important characteristics of Attacker were determined through LinearRegression, Lasso and Ridge. 
 
+## Conclusion
+
+- For the wage, the wage level with the most players is [4K,6K].RCM,LS,RS are the three positions with highest mean income. The player would meet its peak income near 30 years old from the distribution.
+- The number of right-foot players are nearly three times as the number of left-foot players. However, Left-foot players are paid about the same as right-foot players, and it seems not to be affected by the number.
+- From result of random forest, defending abilities(0.55581) are little higher than attacking abilities(0.44419). Therefore, defending abilities are still more important than attacking abilities for wingback. However, the gap is not so large, meaning that attacking should also be considered.
+- From result of LinearRegression, Lasso and Ridge, Finishing, ShortPassing, Dribbling, BallControl and ShotPower are the top 5 important characteristics of attackers.
+
+
 ## Football Player Dataset
 
 This project utilized a dataset downloaded from Kaggle(https://www.kaggle.com/karangadiya/fifa19). It contains nearly 90 attributes of 18000 players extracted from latest edition of FIFA19 database in Sofia(https://sofifa.com/).  It was scrapped by a project in Github.
